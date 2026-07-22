@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, imad</h1>
 <h3 align="center">A passionate Full Stack Developer from Planet Earth</h3>
 
 <p align="center">
@@ -12,10 +12,10 @@
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:llll">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://1m0d00.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **Project Name**
+- 🔭 I'm currently working on **FDGHJ**
 - 🌱 I'm currently learning **Rust & Kubernetes**
 - 👯 I'm looking to collaborate on **Open Source projects**
 - 💬 Ask me about **JavaScript, Python, React, Node.js**
